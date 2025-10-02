@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="5F00d7QuTfuZgaIP5BeZ">
+    <mxGraphModel dx="287816" dy="188848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="GraphDataset" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="7" target="28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3">
+          <mxGeometry x="-0.8939" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3">
+          <mxGeometry x="0.8476" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="Preprocessing Dataset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3">
+          <mxGeometry x="0.1129" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="GraphPreprocessing" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="11" target="2" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="*&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8">
+          <mxGeometry x="0.8576" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8">
+          <mxGeometry x="-0.8585" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="GRANDModel" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="15" target="11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="12">
+          <mxGeometry x="0.8745" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="12">
+          <mxGeometry x="-0.6885" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="EvaluationMetrics" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="19" target="26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="0.8612" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="16">
+          <mxGeometry x="-0.7442" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="ValidationProcess" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="+ train()" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="+ optimize()" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="+ remove_edges()" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="+ split_data()" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="+ ensure_connectivity()" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="+ predict_edges()" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="+ iterative_eval()" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="+ load_data()" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="+ process_data()" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="+ compute_precision()" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="+ compute_recall()" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="+ generate_histogram()" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="+ robustness_testing()" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="+ sensitivity_analysis()" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="+ get_model()" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" source="38" target="34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="35">
+          <mxGeometry x="0.9219" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="35">
+          <mxGeometry x="-0.9765" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="Parameters" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="360.6" y="570" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="+ get_parameters()" vertex="1" parent="1">
+          <mxGeometry x="360.6" y="650" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="+ set_parameters()" vertex="1" parent="1">
+          <mxGeometry x="360.6" y="670" width="180" height="20" as="geometry" />
+        </mxCell>
+      
+<mxCell id="100" value="GraphDataset" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="20" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="101" value="+ load_data(): void&#10;+ process_data(): void" style="text" vertex="1" parent="100"/>
+</mxCell>
+
+<mxCell id="102" value="GraphPreprocessing" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="250" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="103" value="+ remove_edges(): void&#10;+ split_data(): void&#10;+ ensure_connectivity(): void" style="text" vertex="1" parent="102"/>
+</mxCell>
+
+<mxCell id="104" value="GRANDModel" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="480" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="105" value="+ train(): void&#10;+ optimize(): void" style="text" vertex="1" parent="104"/>
+</mxCell>
+
+<mxCell id="106" value="EdgeReconstruction" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="710" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="107" value="+ predict_edges(): void&#10;+ iterative_eval(): void" style="text" vertex="1" parent="106"/>
+</mxCell>
+
+<mxCell id="108" value="EvaluationMetrics" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="940" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="109" value="+ compute_precision(): void&#10;+ compute_recall(): void&#10;+ generate_histogram(): void" style="text" vertex="1" parent="108"/>
+</mxCell>
+
+<mxCell id="110" value="Validation" style="shape=rectangle" vertex="1" parent="1">
+    <mxGeometry x="1170" y="200" width="180" height="120" as="geometry"/>
+    <mxCell id="111" value="+ robustness_testing(): void&#10;+ sensitivity_analysis(): void" style="text" vertex="1" parent="110"/>
+</mxCell>
+
+<!-- Relationships -->
+<mxCell id="200" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" edge="1" source="100" target="102"/>
+<mxCell id="201" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" edge="1" source="102" target="104"/>
+<mxCell id="202" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" edge="1" source="104" target="106"/>
+<mxCell id="203" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" edge="1" source="106" target="108"/>
+<mxCell id="204" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;" edge="1" source="108" target="110"/>
+</root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
