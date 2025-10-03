@@ -1,0 +1,1501 @@
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.258579969406128
+Loss 1.947318, forward nfe 74, backward nfe 0, Train: 0.7643, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: -0.6296868324279785 - 0.9999998807907104
+Distance range: 5.430187229649164e-06 - 0.40845218300819397
+
+Round 1, total removed reconstructed: 7, total new reconstructed: 32
+Total Weak Edges in round: -37
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 7.8054280281066895
+Loss 1.944516, forward nfe 74, backward nfe 0, Train: 0.6286, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: -0.6879062056541443 - 0.9999999403953552
+Distance range: 0.0 - 0.37329158186912537
+
+Round 2, total removed reconstructed: 12, total new reconstructed: 54
+Total Weak Edges in round: -64
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.221342325210571
+Loss 1.945825, forward nfe 74, backward nfe 0, Train: 0.4643, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: -0.04381701350212097 - 0.9999999403953552
+Distance range: 1.0053684491140302e-05 - 0.47191599011421204
+
+Round 3, total removed reconstructed: 14, total new reconstructed: 73
+Total Weak Edges in round: -85
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 9.601552963256836
+Loss 1.948449, forward nfe 74, backward nfe 0, Train: 0.6071, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: -0.19909335672855377 - 0.9999980926513672
+Distance range: 0.00053299346473068 - 0.3157213032245636
+
+Round 4, total removed reconstructed: 16, total new reconstructed: 91
+Total Weak Edges in round: -105
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.57999300956726
+Loss 1.944567, forward nfe 74, backward nfe 0, Train: 0.4143, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: -0.035854436457157135 - 0.9999999403953552
+Distance range: 0.0 - 0.4053283929824829
+
+Round 5, total removed reconstructed: 17, total new reconstructed: 105
+Total Weak Edges in round: -120
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.317476987838745
+Loss 1.944433, forward nfe 74, backward nfe 0, Train: 0.4429, Val: 0.5420, Test: 0.5800
+best val accuracy 0.542000 with test accuracy 0.580000 at epoch 0
+
+
+Score range: 0.08128969371318817 - 1.0
+Distance range: 0.0 - 0.38247719407081604
+
+Round 6, total removed reconstructed: 19, total new reconstructed: 113
+Total Weak Edges in round: -130
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.696112155914307
+Loss 1.949138, forward nfe 74, backward nfe 0, Train: 0.7571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.05853443220257759 - 1.0
+Distance range: 8.002391950867604e-06 - 0.3000675439834595
+
+Round 7, total removed reconstructed: 19, total new reconstructed: 122
+Total Weak Edges in round: -139
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.50701904296875
+Loss 1.950502, forward nfe 74, backward nfe 0, Train: 0.3643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.07681611180305481 - 0.9999997615814209
+Distance range: 0.00023763834906276315 - 0.4513179063796997
+
+Round 8, total removed reconstructed: 22, total new reconstructed: 131
+Total Weak Edges in round: -151
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.442779779434204
+Loss 1.941438, forward nfe 74, backward nfe 0, Train: 0.6429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.1678009033203125 - 1.0
+Distance range: 3.896612724929582e-06 - 0.4905468225479126
+
+Round 9, total removed reconstructed: 22, total new reconstructed: 139
+Total Weak Edges in round: -159
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 8.93798279762268
+Loss 1.946814, forward nfe 74, backward nfe 0, Train: 0.3857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.2254684418439865 - 0.9999999403953552
+Distance range: 0.0 - 0.36433926224708557
+
+Round 10, total removed reconstructed: 22, total new reconstructed: 145
+Total Weak Edges in round: -165
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 10.787737131118774
+Loss 1.947240, forward nfe 74, backward nfe 0, Train: 0.6714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.42847535014152527 - 0.9999963045120239
+Distance range: 0.001022262149490416 - 0.4671473801136017
+
+Round 11, total removed reconstructed: 24, total new reconstructed: 150
+Total Weak Edges in round: -172
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.497506141662598
+Loss 1.947948, forward nfe 74, backward nfe 0, Train: 0.5000, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.5498204231262207 - 1.0
+Distance range: 1.0108216883963905e-05 - 0.4245467782020569
+
+Round 12, total removed reconstructed: 26, total new reconstructed: 156
+Total Weak Edges in round: -180
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.317205905914307
+Loss 1.952175, forward nfe 74, backward nfe 0, Train: 0.4571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.047749556601047516 - 0.9999997615814209
+Distance range: 0.0006192177534103394 - 0.4363657534122467
+
+Round 13, total removed reconstructed: 26, total new reconstructed: 162
+Total Weak Edges in round: -186
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.826056957244873
+Loss 1.952300, forward nfe 74, backward nfe 0, Train: 0.2857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.16665169596672058 - 0.9999999403953552
+Distance range: 0.0 - 0.3674934208393097
+
+Round 14, total removed reconstructed: 26, total new reconstructed: 170
+Total Weak Edges in round: -194
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.488982915878296
+Loss 1.948086, forward nfe 74, backward nfe 0, Train: 0.4786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.18429550528526306 - 0.9999997615814209
+Distance range: 0.00022251889458857477 - 0.331199586391449
+
+Round 15, total removed reconstructed: 26, total new reconstructed: 176
+Total Weak Edges in round: -200
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.457762956619263
+Loss 1.947928, forward nfe 74, backward nfe 0, Train: 0.5214, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.030060572549700737 - 0.9999989867210388
+Distance range: 0.000936430471483618 - 0.4118308424949646
+
+Round 16, total removed reconstructed: 26, total new reconstructed: 178
+Total Weak Edges in round: -202
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.126549005508423
+Loss 1.947127, forward nfe 74, backward nfe 0, Train: 0.5857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.09638415277004242 - 0.999997615814209
+Distance range: 0.0008960380218923092 - 0.5202966928482056
+
+Round 17, total removed reconstructed: 27, total new reconstructed: 182
+Total Weak Edges in round: -207
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.305175065994263
+Loss 1.951306, forward nfe 74, backward nfe 0, Train: 0.4571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.5017639994621277 - 1.0
+Distance range: 9.413732016128051e-08 - 0.5199329257011414
+
+Round 18, total removed reconstructed: 27, total new reconstructed: 192
+Total Weak Edges in round: -217
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.039366006851196
+Loss 1.950994, forward nfe 74, backward nfe 0, Train: 0.3714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.19613699615001678 - 0.9999949336051941
+Distance range: 0.0015841410495340824 - 0.33358410000801086
+
+Round 19, total removed reconstructed: 27, total new reconstructed: 199
+Total Weak Edges in round: -224
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.36009168624878
+Loss 1.946569, forward nfe 74, backward nfe 0, Train: 0.4714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.31146469712257385 - 0.9999999403953552
+Distance range: 9.607476386008784e-06 - 0.39045897126197815
+
+Round 20, total removed reconstructed: 27, total new reconstructed: 204
+Total Weak Edges in round: -229
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.651474952697754
+Loss 1.946892, forward nfe 74, backward nfe 0, Train: 0.5857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.5847112536430359 - 0.9999940991401672
+Distance range: 0.000893475953489542 - 0.8173125982284546
+
+Round 21, total removed reconstructed: 29, total new reconstructed: 208
+Total Weak Edges in round: -235
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.676323890686035
+Loss 1.942844, forward nfe 74, backward nfe 0, Train: 0.6500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.47771593928337097 - 1.0
+Distance range: 6.613193363591563e-06 - 0.4916437566280365
+
+Round 22, total removed reconstructed: 30, total new reconstructed: 211
+Total Weak Edges in round: -239
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.181364297866821
+Loss 1.950924, forward nfe 74, backward nfe 0, Train: 0.6286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3181942105293274 - 0.9999985098838806
+Distance range: 0.000847316172439605 - 0.23525990545749664
+
+Round 23, total removed reconstructed: 30, total new reconstructed: 212
+Total Weak Edges in round: -240
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.231797933578491
+Loss 1.946849, forward nfe 74, backward nfe 0, Train: 0.5643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.11886267364025116 - 1.0
+Distance range: 8.355023055628408e-06 - 0.3507597744464874
+
+Round 24, total removed reconstructed: 31, total new reconstructed: 214
+Total Weak Edges in round: -243
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.42089319229126
+Loss 1.946821, forward nfe 74, backward nfe 0, Train: 0.5929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.1876191943883896 - 1.0
+Distance range: 9.627019608160481e-06 - 0.35240086913108826
+
+Round 25, total removed reconstructed: 31, total new reconstructed: 216
+Total Weak Edges in round: -245
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.926305770874023
+Loss 1.941752, forward nfe 74, backward nfe 0, Train: 0.4143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.39680784940719604 - 1.0
+Distance range: 8.640746074206618e-08 - 0.40214666724205017
+
+Round 26, total removed reconstructed: 31, total new reconstructed: 218
+Total Weak Edges in round: -247
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.132820129394531
+Loss 1.944747, forward nfe 74, backward nfe 0, Train: 0.5429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.3902113139629364 - 0.9999998211860657
+Distance range: 0.0007267953478731215 - 0.5243680477142334
+
+Round 27, total removed reconstructed: 33, total new reconstructed: 219
+Total Weak Edges in round: -250
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 11.894515991210938
+Loss 1.945187, forward nfe 74, backward nfe 0, Train: 0.6286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.3237650394439697 - 0.9999979138374329
+Distance range: 0.0009548928355798125 - 0.3376379609107971
+
+Round 28, total removed reconstructed: 33, total new reconstructed: 221
+Total Weak Edges in round: -252
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.183190107345581
+Loss 1.946530, forward nfe 74, backward nfe 0, Train: 0.4643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.287314236164093 - 0.9999982714653015
+Distance range: 0.0010702103609219193 - 0.3970622420310974
+
+Round 29, total removed reconstructed: 33, total new reconstructed: 227
+Total Weak Edges in round: -258
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.095376014709473
+Loss 1.949392, forward nfe 74, backward nfe 0, Train: 0.4357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4381030201911926 - 0.9999984502792358
+Distance range: 0.0008458669763058424 - 0.9548873901367188
+
+Round 30, total removed reconstructed: 33, total new reconstructed: 231
+Total Weak Edges in round: -262
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 12.753412961959839
+Loss 1.945237, forward nfe 74, backward nfe 0, Train: 0.4429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.23653191328048706 - 1.0
+Distance range: 8.66010486788582e-06 - 0.4206409156322479
+
+Round 31, total removed reconstructed: 33, total new reconstructed: 235
+Total Weak Edges in round: -266
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.476128101348877
+Loss 1.943298, forward nfe 74, backward nfe 0, Train: 0.4357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.04039224982261658 - 0.9999998211860657
+Distance range: 0.00019664653518702835 - 0.6688176989555359
+
+Round 32, total removed reconstructed: 33, total new reconstructed: 235
+Total Weak Edges in round: -266
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.161365032196045
+Loss 1.949610, forward nfe 74, backward nfe 0, Train: 0.3500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.24522051215171814 - 0.9999999403953552
+Distance range: 0.0 - 0.4576398432254791
+
+Round 33, total removed reconstructed: 33, total new reconstructed: 237
+Total Weak Edges in round: -268
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.48990273475647
+Loss 1.951262, forward nfe 74, backward nfe 0, Train: 0.6071, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.5211080312728882 - 1.0000001192092896
+Distance range: 5.533479907171568e-06 - 0.3970712423324585
+
+Round 34, total removed reconstructed: 34, total new reconstructed: 240
+Total Weak Edges in round: -272
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.192241907119751
+Loss 1.949107, forward nfe 74, backward nfe 0, Train: 0.4929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.14107254147529602 - 0.9999971985816956
+Distance range: 0.0013518884079530835 - 0.310631662607193
+
+Round 35, total removed reconstructed: 34, total new reconstructed: 242
+Total Weak Edges in round: -274
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.043844938278198
+Loss 1.949679, forward nfe 74, backward nfe 0, Train: 0.6643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.11971276998519897 - 0.9999988675117493
+Distance range: 0.0009330799803137779 - 0.28570032119750977
+
+Round 36, total removed reconstructed: 35, total new reconstructed: 242
+Total Weak Edges in round: -275
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.796658992767334
+Loss 1.953939, forward nfe 74, backward nfe 0, Train: 0.3929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.11347956955432892 - 0.9999999403953552
+Distance range: 0.0 - 0.40461012721061707
+
+Round 37, total removed reconstructed: 35, total new reconstructed: 243
+Total Weak Edges in round: -276
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.459650039672852
+Loss 1.947536, forward nfe 74, backward nfe 0, Train: 0.5429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.4329887628555298 - 1.0000001192092896
+Distance range: 9.874009265331551e-06 - 0.6328516006469727
+
+Round 38, total removed reconstructed: 36, total new reconstructed: 248
+Total Weak Edges in round: -282
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.768569231033325
+Loss 1.944285, forward nfe 74, backward nfe 0, Train: 0.4643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.042543165385723114 - 0.9999999403953552
+Distance range: 1.5093419278855436e-05 - 0.4008326530456543
+
+Round 39, total removed reconstructed: 36, total new reconstructed: 251
+Total Weak Edges in round: -285
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.071598052978516
+Loss 1.952144, forward nfe 74, backward nfe 0, Train: 0.5143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.36308225989341736 - 0.9999999403953552
+Distance range: 0.0 - 0.4414457082748413
+
+Round 40, total removed reconstructed: 36, total new reconstructed: 251
+Total Weak Edges in round: -285
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.89879822731018
+Loss 1.950356, forward nfe 74, backward nfe 0, Train: 0.5929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.046413760632276535 - 1.0
+Distance range: 5.778721970273182e-05 - 0.3954959213733673
+
+Round 41, total removed reconstructed: 36, total new reconstructed: 252
+Total Weak Edges in round: -286
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.835783243179321
+Loss 1.949196, forward nfe 74, backward nfe 0, Train: 0.3429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.44453877210617065 - 0.9999997019767761
+Distance range: 0.00041107682045549154 - 0.4835500717163086
+
+Round 42, total removed reconstructed: 36, total new reconstructed: 255
+Total Weak Edges in round: -289
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.820337057113647
+Loss 1.949006, forward nfe 74, backward nfe 0, Train: 0.4929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.22520604729652405 - 0.9999945759773254
+Distance range: 0.0014934227801859379 - 0.4266926646232605
+
+Round 43, total removed reconstructed: 36, total new reconstructed: 258
+Total Weak Edges in round: -292
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.9895339012146
+Loss 1.945241, forward nfe 74, backward nfe 0, Train: 0.3643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.19155168533325195 - 0.9999997615814209
+Distance range: 0.00043638944043777883 - 0.39970389008522034
+
+Round 44, total removed reconstructed: 36, total new reconstructed: 258
+Total Weak Edges in round: -292
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.32915997505188
+Loss 1.947944, forward nfe 74, backward nfe 0, Train: 0.5357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.17353612184524536 - 0.9999956488609314
+Distance range: 0.0010904447408393025 - 0.33482980728149414
+
+Round 45, total removed reconstructed: 36, total new reconstructed: 260
+Total Weak Edges in round: -294
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.473546981811523
+Loss 1.952313, forward nfe 74, backward nfe 0, Train: 0.3643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.10949447005987167 - 1.0
+Distance range: 1.3088911146041937e-05 - 1.0783162117004395
+
+Round 46, total removed reconstructed: 36, total new reconstructed: 262
+Total Weak Edges in round: -296
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.24411916732788
+Loss 1.943627, forward nfe 74, backward nfe 0, Train: 0.2786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.20699167251586914 - 1.0000001192092896
+Distance range: 0.0 - 0.8041434288024902
+
+Round 47, total removed reconstructed: 36, total new reconstructed: 262
+Total Weak Edges in round: -296
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.533752918243408
+Loss 1.947784, forward nfe 74, backward nfe 0, Train: 0.6071, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.6813770532608032 - 0.9999972581863403
+Distance range: 0.0010896377498283982 - 0.45332658290863037
+
+Round 48, total removed reconstructed: 36, total new reconstructed: 265
+Total Weak Edges in round: -299
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.362568855285645
+Loss 1.945776, forward nfe 74, backward nfe 0, Train: 0.3357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3754986822605133 - 1.0
+Distance range: 0.0 - 0.34781503677368164
+
+Round 49, total removed reconstructed: 36, total new reconstructed: 265
+Total Weak Edges in round: -299
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.228973150253296
+Loss 1.948331, forward nfe 74, backward nfe 0, Train: 0.2929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.06428378820419312 - 0.9999997615814209
+Distance range: 0.0002767658734228462 - 0.4697302281856537
+
+Round 50, total removed reconstructed: 36, total new reconstructed: 265
+Total Weak Edges in round: -299
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.905402183532715
+Loss 1.946109, forward nfe 74, backward nfe 0, Train: 0.4786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.09703993797302246 - 0.9999984502792358
+Distance range: 0.0008100454579107463 - 0.4700537919998169
+
+Round 51, total removed reconstructed: 36, total new reconstructed: 267
+Total Weak Edges in round: -301
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.818408012390137
+Loss 1.949375, forward nfe 74, backward nfe 0, Train: 0.1857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.48193711042404175 - 1.0
+Distance range: 0.0 - 0.6963590383529663
+
+Round 52, total removed reconstructed: 36, total new reconstructed: 269
+Total Weak Edges in round: -303
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.08263611793518
+Loss 1.948042, forward nfe 74, backward nfe 0, Train: 0.2357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.21201741695404053 - 0.9999999403953552
+Distance range: 0.0002455793437547982 - 0.3712082505226135
+
+Round 53, total removed reconstructed: 36, total new reconstructed: 271
+Total Weak Edges in round: -305
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.512279033660889
+Loss 1.946956, forward nfe 74, backward nfe 0, Train: 0.3643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.40578243136405945 - 0.9999991655349731
+Distance range: 0.00097562005976215 - 0.9968348145484924
+
+Round 54, total removed reconstructed: 36, total new reconstructed: 272
+Total Weak Edges in round: -306
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.852442264556885
+Loss 1.942771, forward nfe 74, backward nfe 0, Train: 0.3500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.04066050797700882 - 1.0
+Distance range: 5.765074092778377e-06 - 0.3864527940750122
+
+Round 55, total removed reconstructed: 36, total new reconstructed: 272
+Total Weak Edges in round: -306
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.971100807189941
+Loss 1.950632, forward nfe 74, backward nfe 0, Train: 0.3714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.05434668809175491 - 0.9999983310699463
+Distance range: 0.0007922530057840049 - 0.37541067600250244
+
+Round 56, total removed reconstructed: 36, total new reconstructed: 275
+Total Weak Edges in round: -309
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 19.708296060562134
+Loss 1.942933, forward nfe 74, backward nfe 0, Train: 0.1429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.41576823592185974 - 1.0
+Distance range: 1.1278854799456894e-05 - 0.9758287668228149
+
+Round 57, total removed reconstructed: 36, total new reconstructed: 276
+Total Weak Edges in round: -310
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.22355008125305
+Loss 1.950649, forward nfe 74, backward nfe 0, Train: 0.5357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.31811922788619995 - 0.9999986886978149
+Distance range: 0.0006744866841472685 - 0.562994658946991
+
+Round 58, total removed reconstructed: 36, total new reconstructed: 278
+Total Weak Edges in round: -312
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.956337928771973
+Loss 1.946811, forward nfe 74, backward nfe 0, Train: 0.3929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5170578360557556 - 1.0
+Distance range: 0.0 - 0.3965163230895996
+
+Round 59, total removed reconstructed: 36, total new reconstructed: 279
+Total Weak Edges in round: -313
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.895426034927368
+Loss 1.947834, forward nfe 74, backward nfe 0, Train: 0.3143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.09073386341333389 - 1.0
+Distance range: 0.0 - 0.5574808716773987
+
+Round 60, total removed reconstructed: 36, total new reconstructed: 279
+Total Weak Edges in round: -313
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.808741092681885
+Loss 1.945692, forward nfe 74, backward nfe 0, Train: 0.3643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3189134895801544 - 0.999997615814209
+Distance range: 0.0021002800203859806 - 0.5440768599510193
+
+Round 61, total removed reconstructed: 36, total new reconstructed: 279
+Total Weak Edges in round: -313
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.565354108810425
+Loss 1.938234, forward nfe 74, backward nfe 0, Train: 0.6071, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: -0.1543462723493576 - 1.0
+Distance range: 1.3477391803462524e-05 - 0.5404001474380493
+
+Round 62, total removed reconstructed: 36, total new reconstructed: 280
+Total Weak Edges in round: -314
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.419742107391357
+Loss 1.943015, forward nfe 74, backward nfe 0, Train: 0.4643, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.10320915281772614 - 1.0000001192092896
+Distance range: 0.0 - 0.37742698192596436
+
+Round 63, total removed reconstructed: 36, total new reconstructed: 281
+Total Weak Edges in round: -315
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.59113097190857
+Loss 1.945763, forward nfe 74, backward nfe 0, Train: 0.3786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.2938154339790344 - 1.0000001192092896
+Distance range: 0.0 - 0.49550139904022217
+
+Round 64, total removed reconstructed: 36, total new reconstructed: 282
+Total Weak Edges in round: -316
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 17.272133350372314
+Loss 1.946072, forward nfe 74, backward nfe 0, Train: 0.1500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.41391780972480774 - 1.0
+Distance range: 0.0 - 0.4536697268486023
+
+Round 65, total removed reconstructed: 36, total new reconstructed: 282
+Total Weak Edges in round: -316
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.537028074264526
+Loss 1.947046, forward nfe 74, backward nfe 0, Train: 0.5286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3954782783985138 - 0.9999995827674866
+Distance range: 0.0014080556575208902 - 0.44800183176994324
+
+Round 66, total removed reconstructed: 36, total new reconstructed: 282
+Total Weak Edges in round: -316
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.639613151550293
+Loss 1.946800, forward nfe 74, backward nfe 0, Train: 0.3071, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5254083275794983 - 1.0000001192092896
+Distance range: 0.0 - 0.5139051675796509
+
+Round 67, total removed reconstructed: 38, total new reconstructed: 284
+Total Weak Edges in round: -320
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.14702081680298
+Loss 1.945496, forward nfe 74, backward nfe 0, Train: 0.6571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.06887100636959076 - 1.0
+Distance range: 8.25444749352755e-06 - 0.5310778021812439
+
+Round 68, total removed reconstructed: 38, total new reconstructed: 285
+Total Weak Edges in round: -321
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.558609962463379
+Loss 1.948349, forward nfe 74, backward nfe 0, Train: 0.4857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.21389372646808624 - 0.9999990463256836
+Distance range: 0.000650755362585187 - 0.6606335639953613
+
+Round 69, total removed reconstructed: 38, total new reconstructed: 285
+Total Weak Edges in round: -321
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.717215061187744
+Loss 1.950663, forward nfe 74, backward nfe 0, Train: 0.2357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.2199089527130127 - 1.0
+Distance range: 3.7955937841616105e-06 - 0.5514703392982483
+
+Round 70, total removed reconstructed: 38, total new reconstructed: 286
+Total Weak Edges in round: -322
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.360292196273804
+Loss 1.944591, forward nfe 74, backward nfe 0, Train: 0.3786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4580051302909851 - 0.9999993443489075
+Distance range: 0.0010684247827157378 - 0.6068975925445557
+
+Round 71, total removed reconstructed: 38, total new reconstructed: 286
+Total Weak Edges in round: -322
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.45297908782959
+Loss 1.942822, forward nfe 74, backward nfe 0, Train: 0.4857, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.15293440222740173 - 0.9999999403953552
+Distance range: 0.0 - 0.6287747621536255
+
+Round 72, total removed reconstructed: 38, total new reconstructed: 289
+Total Weak Edges in round: -325
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.682354927062988
+Loss 1.946162, forward nfe 74, backward nfe 0, Train: 0.2143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.41794413328170776 - 1.0
+Distance range: 1.1456923857622314e-05 - 0.7068037390708923
+
+Round 73, total removed reconstructed: 38, total new reconstructed: 291
+Total Weak Edges in round: -327
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.33325433731079
+Loss 1.942080, forward nfe 74, backward nfe 0, Train: 0.2286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.11247710883617401 - 1.0000001192092896
+Distance range: 0.0 - 0.4958065152168274
+
+Round 74, total removed reconstructed: 38, total new reconstructed: 291
+Total Weak Edges in round: -327
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.49156403541565
+Loss 1.943348, forward nfe 74, backward nfe 0, Train: 0.5429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.49668121337890625 - 0.9999986290931702
+Distance range: 0.0011439730878919363 - 0.4031889736652374
+
+Round 75, total removed reconstructed: 38, total new reconstructed: 292
+Total Weak Edges in round: -328
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.66795802116394
+Loss 1.940903, forward nfe 74, backward nfe 0, Train: 0.3000, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4669084846973419 - 1.0
+Distance range: 1.9376393538550474e-05 - 0.5502523183822632
+
+Round 76, total removed reconstructed: 38, total new reconstructed: 292
+Total Weak Edges in round: -328
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.88738512992859
+Loss 1.948174, forward nfe 74, backward nfe 0, Train: 0.1714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3821839690208435 - 0.9999999403953552
+Distance range: 0.00010009992547566071 - 0.8535551428794861
+
+Round 77, total removed reconstructed: 38, total new reconstructed: 292
+Total Weak Edges in round: -328
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.721045970916748
+Loss 1.951151, forward nfe 74, backward nfe 0, Train: 0.2714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5973638296127319 - 0.9999994039535522
+Distance range: 0.0016682802233844995 - 0.5024174451828003
+
+Round 78, total removed reconstructed: 38, total new reconstructed: 297
+Total Weak Edges in round: -333
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.401136875152588
+Loss 1.949283, forward nfe 74, backward nfe 0, Train: 0.3929, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3816854655742645 - 0.9999998807907104
+Distance range: 0.0004302409943193197 - 0.5011583566665649
+
+Round 79, total removed reconstructed: 38, total new reconstructed: 297
+Total Weak Edges in round: -333
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.81838822364807
+Loss 1.948617, forward nfe 74, backward nfe 0, Train: 0.3214, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.2641408145427704 - 0.9999985098838806
+Distance range: 0.0016139537328854203 - 0.532330334186554
+
+Round 80, total removed reconstructed: 38, total new reconstructed: 297
+Total Weak Edges in round: -333
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 17.179898262023926
+Loss 1.946207, forward nfe 74, backward nfe 0, Train: 0.1500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4723804295063019 - 0.9999999403953552
+Distance range: 9.793448043637909e-06 - 0.4652356207370758
+
+Round 81, total removed reconstructed: 38, total new reconstructed: 298
+Total Weak Edges in round: -334
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.557821035385132
+Loss 1.940565, forward nfe 74, backward nfe 0, Train: 0.1500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5674024820327759 - 0.9999998807907104
+Distance range: 2.0318224414950237e-05 - 0.6921354532241821
+
+Round 82, total removed reconstructed: 38, total new reconstructed: 300
+Total Weak Edges in round: -336
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 17.104209899902344
+Loss 1.946829, forward nfe 74, backward nfe 0, Train: 0.3571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.3876664638519287 - 1.0
+Distance range: 6.683345418423414e-06 - 0.47144418954849243
+
+Round 83, total removed reconstructed: 39, total new reconstructed: 301
+Total Weak Edges in round: -338
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.663462162017822
+Loss 1.947310, forward nfe 74, backward nfe 0, Train: 0.2714, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.8056133985519409 - 0.9999999403953552
+Distance range: 0.0012802259298041463 - 0.8844293355941772
+
+Round 84, total removed reconstructed: 40, total new reconstructed: 301
+Total Weak Edges in round: -339
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 17.3277530670166
+Loss 1.944242, forward nfe 74, backward nfe 0, Train: 0.3429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.45590975880622864 - 1.0
+Distance range: 7.39485549274832e-05 - 0.4413928985595703
+
+Round 85, total removed reconstructed: 41, total new reconstructed: 302
+Total Weak Edges in round: -341
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 16.766003847122192
+Loss 1.946477, forward nfe 74, backward nfe 0, Train: 0.2786, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4020257592201233 - 1.0
+Distance range: 9.5332034106832e-06 - 0.5803336501121521
+
+Round 86, total removed reconstructed: 41, total new reconstructed: 302
+Total Weak Edges in round: -341
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.78302526473999
+Loss 1.946092, forward nfe 74, backward nfe 0, Train: 0.3286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.23547884821891785 - 0.9999994039535522
+Distance range: 0.0006298511871136725 - 0.8466070890426636
+
+Round 87, total removed reconstructed: 41, total new reconstructed: 302
+Total Weak Edges in round: -341
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 13.972352981567383
+Loss 1.948647, forward nfe 74, backward nfe 0, Train: 0.4071, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5323062539100647 - 0.9999998807907104
+Distance range: 0.0016080262139439583 - 0.49819129705429077
+
+Round 88, total removed reconstructed: 41, total new reconstructed: 302
+Total Weak Edges in round: -341
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.028861999511719
+Loss 1.944933, forward nfe 74, backward nfe 0, Train: 0.1429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.6513630151748657 - 1.0
+Distance range: 1.2608337783603929e-05 - 0.9272636771202087
+
+Round 89, total removed reconstructed: 41, total new reconstructed: 302
+Total Weak Edges in round: -341
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.405543088912964
+Loss 1.944563, forward nfe 74, backward nfe 0, Train: 0.2214, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.24753780663013458 - 1.0
+Distance range: 1.2718044672510587e-05 - 0.8622713088989258
+
+Round 90, total removed reconstructed: 41, total new reconstructed: 304
+Total Weak Edges in round: -343
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.288697004318237
+Loss 1.950216, forward nfe 74, backward nfe 0, Train: 0.3143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.09669557213783264 - 1.0
+Distance range: 7.403005838568788e-06 - 0.562183678150177
+
+Round 91, total removed reconstructed: 41, total new reconstructed: 307
+Total Weak Edges in round: -346
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.796595096588135
+Loss 1.944281, forward nfe 74, backward nfe 0, Train: 0.2143, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.6461101174354553 - 0.9999992251396179
+Distance range: 0.001425700611434877 - 0.5149421095848083
+
+Round 92, total removed reconstructed: 41, total new reconstructed: 308
+Total Weak Edges in round: -347
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.66910696029663
+Loss 1.944385, forward nfe 74, backward nfe 0, Train: 0.3357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.1469384729862213 - 1.0
+Distance range: 0.0 - 0.6549565196037292
+
+Round 93, total removed reconstructed: 41, total new reconstructed: 308
+Total Weak Edges in round: -347
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.948312997817993
+Loss 1.941544, forward nfe 74, backward nfe 0, Train: 0.2286, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.39315351843833923 - 0.9999999403953552
+Distance range: 6.371374638547422e-06 - 0.49325209856033325
+
+Round 94, total removed reconstructed: 41, total new reconstructed: 308
+Total Weak Edges in round: -347
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.835310220718384
+Loss 1.948169, forward nfe 74, backward nfe 0, Train: 0.4357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.48252448439598083 - 0.9999998807907104
+Distance range: 2.1507843484869227e-05 - 0.7120661735534668
+
+Round 95, total removed reconstructed: 41, total new reconstructed: 308
+Total Weak Edges in round: -347
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.80192494392395
+Loss 1.947880, forward nfe 74, backward nfe 0, Train: 0.1500, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.37116241455078125 - 0.9999999403953552
+Distance range: 0.0 - 0.6931193470954895
+
+Round 96, total removed reconstructed: 41, total new reconstructed: 308
+Total Weak Edges in round: -347
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.202247858047485
+Loss 1.955454, forward nfe 74, backward nfe 0, Train: 0.2571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.4936099052429199 - 1.0
+Distance range: 0.0 - 0.8510872721672058
+
+Round 97, total removed reconstructed: 42, total new reconstructed: 308
+Total Weak Edges in round: -348
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.201882123947144
+Loss 1.947408, forward nfe 74, backward nfe 0, Train: 0.2571, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.5540395975112915 - 0.9999999403953552
+Distance range: 0.0 - 0.5890575051307678
+
+Round 98, total removed reconstructed: 42, total new reconstructed: 308
+Total Weak Edges in round: -348
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 14.880377769470215
+Loss 1.946597, forward nfe 74, backward nfe 0, Train: 0.4429, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.20242926478385925 - 0.9999986886978149
+Distance range: 0.00134531210642308 - 0.5778728127479553
+
+Round 99, total removed reconstructed: 42, total new reconstructed: 308
+Total Weak Edges in round: -348
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 7917])
+Deleted edges: 2639
+Finished after 15.047655820846558
+Loss 1.947099, forward nfe 74, backward nfe 0, Train: 0.4357, Val: 0.6000, Test: 0.6050
+best val accuracy 0.600000 with test accuracy 0.605000 at epoch 6
+
+
+Score range: 0.14812584221363068 - 1.0
+Distance range: 1.9766666810028255e-05 - 0.5761372447013855
+
+Round 100, total removed reconstructed: 42, total new reconstructed: 309
+Total Weak Edges in round: -349
+
+ *******************************************
