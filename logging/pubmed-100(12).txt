@@ -1,0 +1,205 @@
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86402 of 86402 edges
+Finished after 4464.1688141822815
+Loss 1.103631, forward nfe 52, backward nfe 9014, Train: 0.2667, Val: 0.4160, Test: 0.4070
+best val accuracy 0.416000 with test accuracy 0.407000 at epoch 0
+
+
+Score range: 0.11468815803527832 - 0.9999999403953552
+Distance range: 6.385736196534708e-05 - 0.01198083721101284
+
+Round 1, total removed reconstructed: 1, total new reconstructed: 4995
+Total Weak Edges in round: -4994
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86270 of 86402 edges
+Finished after 3136.6259050369263
+Loss 1.101431, forward nfe 52, backward nfe 7078, Train: 0.4667, Val: 0.4500, Test: 0.4570
+best val accuracy 0.450000 with test accuracy 0.457000 at epoch 1
+
+
+Score range: 0.35940849781036377 - 0.9999999403953552
+Distance range: 6.755986396456137e-05 - 0.013065765611827374
+
+Round 2, total removed reconstructed: 6, total new reconstructed: 8605
+Total Weak Edges in round: -8609
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86402 of 86402 edges
+Finished after 2413.435205936432
+Loss 1.098667, forward nfe 52, backward nfe 5417, Train: 0.6167, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: 0.07084950804710388 - 1.0
+Distance range: 9.670056169852614e-05 - 0.01850929856300354
+
+Round 3, total removed reconstructed: 6, total new reconstructed: 11316
+Total Weak Edges in round: -11320
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86273 of 86402 edges
+Finished after 6318.156571865082
+Loss 1.109683, forward nfe 52, backward nfe 14077, Train: 0.3333, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: 0.7002763152122498 - 1.0
+Distance range: 8.81099549587816e-05 - 0.025889020413160324
+
+Round 4, total removed reconstructed: 7, total new reconstructed: 13477
+Total Weak Edges in round: -13482
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86402 of 86402 edges
+Finished after 5762.58447098732
+Loss 1.105928, forward nfe 52, backward nfe 12807, Train: 0.3167, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: 0.6267465353012085 - 1.0
+Distance range: 9.181590576190501e-05 - 0.017756331712007523
+
+Round 5, total removed reconstructed: 8, total new reconstructed: 15198
+Total Weak Edges in round: -15204
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86271 of 86402 edges
+Finished after 4133.2985010147095
+Loss 1.098000, forward nfe 52, backward nfe 9248, Train: 0.5333, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: 0.630962610244751 - 1.0
+Distance range: 4.7265359171433374e-05 - 0.017837345600128174
+
+Round 6, total removed reconstructed: 8, total new reconstructed: 16460
+Total Weak Edges in round: -16466
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86402 of 86402 edges
+Finished after 4303.1243398189545
+Loss 1.097924, forward nfe 52, backward nfe 8978, Train: 0.4333, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: 0.3018185496330261 - 1.0
+Distance range: 0.00011041644756915048 - 0.015477481298148632
+
+Round 7, total removed reconstructed: 8, total new reconstructed: 17676
+Total Weak Edges in round: -17682
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86273 of 86402 edges
+Finished after 5357.718390226364
+Loss 1.099712, forward nfe 52, backward nfe 11159, Train: 0.3500, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: -0.24173161387443542 - 1.0
+Distance range: 0.0001091947196982801 - 0.020203400403261185
+
+Round 8, total removed reconstructed: 8, total new reconstructed: 19019
+Total Weak Edges in round: -19025
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86269 of 86402 edges
+Finished after 3509.510952949524
+Loss 1.097388, forward nfe 52, backward nfe 7224, Train: 0.4500, Val: 0.5240, Test: 0.5050
+best val accuracy 0.524000 with test accuracy 0.505000 at epoch 2
+
+
+Score range: -0.4007394015789032 - 0.9999998807907104
+Distance range: 0.00014114218356553465 - 0.03614205867052078
+
+Round 9, total removed reconstructed: 8, total new reconstructed: 20194
+Total Weak Edges in round: -20200
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86259 of 86402 edges
+Finished after 2741.1900169849396
+Loss 1.099362, forward nfe 52, backward nfe 5634, Train: 0.4833, Val: 0.5440, Test: 0.5760
+best val accuracy 0.544000 with test accuracy 0.576000 at epoch 9
+
+
+Score range: 0.009809061884880066 - 1.0
+Distance range: 3.862368976115249e-05 - 0.014692278578877449
+
+Round 10, total removed reconstructed: 8, total new reconstructed: 20749
+Total Weak Edges in round: -20755
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86402 of 86402 edges
+Finished after 4625.461406946182
+Loss 1.098705, forward nfe 52, backward nfe 9504, Train: 0.6667, Val: 0.5440, Test: 0.5760
+best val accuracy 0.544000 with test accuracy 0.576000 at epoch 9
+
+
+Score range: -0.322655588388443 - 0.9999998807907104
+Distance range: 8.615623664809391e-05 - 0.01989319734275341
+
+Round 11, total removed reconstructed: 8, total new reconstructed: 21803
+Total Weak Edges in round: -21809
+
+ ******************************************* 
+
+Training edges: torch.Size([2, 66486])
+Deleted edges: 22162
+pre_count=86203, post_count=86402, pc_change=0.002308504344396445, rw_addD=0.01, quantile_value(before clamp)=-130.0137248691626
+retaining 86269 of 86402 edges
+Finished after 3824.2335979938507
+Loss 1.097707, forward nfe 52, backward nfe 7855, Train: 0.4000, Val: 0.5440, Test: 0.5760
+best val accuracy 0.544000 with test accuracy 0.576000 at epoch 9
+
+
+Score range: 0.42571595311164856 - 1.0
+Distance range: 0.00012247082486283034 - 0.01572697050869465
+
+Round 12, total removed reconstructed: 8, total new reconstructed: 22303
+Total Weak Edges in round: -22309
+
+ ******************************************* 

@@ -190,13 +190,22 @@ class RewireAttODEblock(ODEblock):
         #calc attentions for transition matrix
         attention_weights = self.get_attention_weights(x)
         self.odefunc.attention_weights = attention_weights.mean(dim=1, keepdim=False)
-
+        
         # Densify and threshold attention weights
         pre_count = self.odefunc.edge_index.shape[1]
         self.densify_edges()
         post_count = self.odefunc.edge_index.shape[1]
         pc_change = post_count /pre_count - 1
-        threshold = torch.quantile(self.odefunc.edge_weight, 1/(pc_change - self.opt['rw_addD']))
+
+        if self.opt['dataset'] == 'Pubmed':
+          quantile_value = 1/(pc_change - self.opt['rw_addD'])
+          quantile_value = max(0.0, min(1.0, quantile_value))  # clamp to [0,1]
+          print(f"pre_count={pre_count}, post_count={post_count}, pc_change={pc_change}, rw_addD={self.opt['rw_addD']}, quantile_value(before clamp)={1/(pc_change - self.opt['rw_addD'])}")
+          if not (0 <= quantile_value <= 1):
+              raise ValueError(f"Quantile value must be in [0, 1], got {pc_change=} {quantile_value=}")
+          threshold = torch.quantile(self.odefunc.edge_weight, quantile_value)
+        else:
+          threshold = torch.quantile(self.odefunc.edge_weight, 1/(pc_change - self.opt['rw_addD']))
 
         self.threshold_edges(x, threshold)
 
