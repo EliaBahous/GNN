@@ -1,0 +1,35 @@
+dataset: Pubmed
+
+# ===== Architecture =====
+block: rewire_attention
+hidden_dim: 128
+feat_hidden_dim: 64
+heads: 4
+attention_dim: 128
+
+# ===== Attention =====
+attention_type: cosine_sim
+
+# ===== ODE (PubMed-specific) =====
+adjoint: true
+time: 13
+max_nfe: 100000
+tol_scale: 1991.0688305523001
+tol_scale_adjoint: 16324.368093998313
+
+# ===== Training =====
+lr: 0.005
+decay: 0.0005
+max_epochs: 150
+
+# ===== Rewiring =====
+new_edges: random
+rw_addD: 0.005
+rw_rmvR: 0.005
+
+
+# ===== Diagnostics =====
+leaky_relu_slope: 0.2
+epoch: 600
+add_source: true
+adjoint_method: adaptive_heun
