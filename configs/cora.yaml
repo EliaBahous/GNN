@@ -1,0 +1,28 @@
+dataset: Cora
+
+# ===== Architecture =====
+use_mlp: true
+hidden_dim: 64
+heads: 8
+attention_dim: 128
+
+# ===== Attention =====
+attention_type: scaled_dot
+
+# ===== ODE =====
+time: 20
+tol_scale: 70
+
+# ===== Training =====
+lr: 0.009
+decay: 0.007
+
+# ===== Regularization =====
+dropout: 0.2
+input_dropout: 0.5
+
+
+# ===== Diagnostics =====
+leaky_relu_slope: 0.2
+epoch: 20
+add_source: false

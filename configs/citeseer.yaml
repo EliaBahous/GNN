@@ -1,0 +1,36 @@
+dataset: Citeseer
+
+# ===== Architecture =====
+hidden_dim: 80
+heads: 8
+attention_dim: 32
+
+# ===== Attention =====
+attention_type: exp_kernel
+attention_norm_idx: 1
+
+# ===== ODE =====
+exact: true
+time: 8
+max_nfe: 3000
+tol_scale: 2.9
+
+# ===== Training =====
+lr: 0.0086
+decay: 0.1
+max_epochs: 1000
+
+# ===== Regularization =====
+dropout: 0.75
+input_dropout: 0.68
+
+# ===== Graph Processing =====
+new_edges: random
+rw_addD: 0.02
+rw_rmvR: 0.02
+
+# ===== Diagnostics =====
+leaky_relu_slope: 0.5825086997804176
+epoch: 20
+add_source: true
+adjoint_method: adaptive_heun
