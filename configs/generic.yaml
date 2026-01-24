@@ -1,0 +1,66 @@
+# ===== Dataset =====
+dataset: ${DATASET}   # injected at runtime (Pubmed / Cora / Citeseer)
+
+# ===== Model =====
+function: laplacian
+block: attention
+
+hidden_dim: 64
+attention_dim: 64
+heads: 4
+
+use_mlp: false
+use_labels: true
+label_rate: 0.5
+
+fc_out: false
+batch_norm: false
+
+# ===== Attention =====
+attention_type: scaled_dot
+attention_norm_idx: 0
+square_plus: true
+reweight_attention: false
+att_samp_pct: 1.0
+
+# ===== ODE Solver =====
+method: dopri5
+adjoint: false
+exact: false
+time: 10
+step_size: 1
+max_nfe: 5000
+tol_scale: 1.0
+
+# ===== Training =====
+optimizer: adam
+lr: 0.006
+decay: 0.001
+
+max_epochs: 200
+patience: 50
+no_early: true
+
+# ===== Regularization =====
+dropout: 0.4
+input_dropout: 0.4
+
+# ===== Graph Processing =====
+rewiring: null
+new_edges: null
+rw_addD: 0.0
+rw_rmvR: 0.0
+beltrami: false
+kinetic_energy: null
+jacobian_norm2: null
+total_deriv: null
+directional_penalty: null
+augment: false
+self_loop_weight: 1
+no_alpha_sigmoid: false
+use_flux: false
+adjoint_step_size: 1
+leaky_relu_slope: 0.5825086997804176
+add_source: true
+adjoint_method: adaptive_heun
+epoch: 20
