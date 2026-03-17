@@ -32,7 +32,7 @@ tol_scale: 1.0
 optimizer: adam
 lr: 0.006
 decay: 0.001
-max_epochs: 200
+max_epochs: 60
 patience: 50
 no_early: true
 

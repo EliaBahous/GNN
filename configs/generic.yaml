@@ -1,66 +1,35 @@
-# ===== Dataset =====
-dataset: ${DATASET}   # injected at runtime (Pubmed / Cora / Citeseer)
+dataset: null
 
-# ===== Model =====
-function: laplacian
+# ===== Architecture =====
 block: attention
-
 hidden_dim: 64
-attention_dim: 64
+feat_hidden_dim: 64
 heads: 4
-
-use_mlp: false
-use_labels: true
-label_rate: 0.5
-
-fc_out: false
-batch_norm: false
+attention_dim: 64
 
 # ===== Attention =====
-attention_type: scaled_dot
-attention_norm_idx: 0
-square_plus: true
-reweight_attention: false
-att_samp_pct: 1.0
+attention_type: cosine_sim
 
-# ===== ODE Solver =====
-method: dopri5
-adjoint: false
-exact: false
-time: 10
-step_size: 1
-max_nfe: 5000
-tol_scale: 1.0
+# ===== ODE (PubMed-specific) =====
+adjoint: true
+time: 13
+max_nfe: 3000
+tol_scale: 1000.0
+tol_scale_adjoint: 16324.368093998313
 
 # ===== Training =====
-optimizer: adam
-lr: 0.006
-decay: 0.001
+lr: 0.005
+decay: 0.0005
+max_epochs: 150
 
-max_epochs: 200
-patience: 50
-no_early: true
+# ===== Rewiring =====
+new_edges: random
+rw_addD: 0.005
+rw_rmvR: 0.005
 
-# ===== Regularization =====
-dropout: 0.4
-input_dropout: 0.4
 
-# ===== Graph Processing =====
-rewiring: null
-new_edges: null
-rw_addD: 0.0
-rw_rmvR: 0.0
-beltrami: false
-kinetic_energy: null
-jacobian_norm2: null
-total_deriv: null
-directional_penalty: null
-augment: false
-self_loop_weight: 1
-no_alpha_sigmoid: false
-use_flux: false
-adjoint_step_size: 1
-leaky_relu_slope: 0.5825086997804176
+# ===== Diagnostics =====
+leaky_relu_slope: 0.2
+epoch: 600
 add_source: true
 adjoint_method: adaptive_heun
-epoch: 20

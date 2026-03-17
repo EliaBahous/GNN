@@ -2,3 +2,7 @@ data/*
 __pycache__/*
 .idea
 .DS_Store
+lib/*
+*.html
+*.csv
+*.txt
